@@ -70,7 +70,7 @@ function App() {
               name="github user login"
               onChange={handleSearch}
             />
-            <Form.Button content="Search" />
+            <Form.Button content="Submit" />
           </Form.Group>
         </Form>
       </div>
